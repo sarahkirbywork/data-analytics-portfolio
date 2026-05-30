@@ -40,3 +40,4 @@ Welcome to my data analytics portfolio! This repository contains the case studie
 
 ## 📬 Contact
 If you’d like to connect or learn more about my work, feel free to reach out through my portfolio site or LinkedIn.
+LinkedIn: https://www.linkedin.com/in/sarah-kirby-61324b380
